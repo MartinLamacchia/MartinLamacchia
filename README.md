@@ -4,7 +4,7 @@
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/martin-lamacchia-a1622726b/)
 
-<img src="https://github.com/MartinLamacchia/assets-GitHub-Profile/raw/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Descripción de la imagen" width="100%" height="200">
+<img src="https://github.com/MartinLamacchia/assets-GitHub-Profile/raw/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Descripción de la imagen" width="100%" height="250">
 
 
 ---
