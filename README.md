@@ -1,6 +1,17 @@
 ### Hola soy [Martin Lamacchia][website] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinlamacchia&label=Profile%20views&color=0e75b6&style=flat" alt="martinlamacchia" /> </p>
+<p align="left"> 
+
+<a href="www.linkedin.com/in/martin-lamacchia-a1622726b">
+<img border="0" alt="Drexleer" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
+ 
+<a href="mailto:martinjiro22@gmail.com">
+<img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+
+</p>
+
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/martin-lamacchia-a1622726b/)
 
