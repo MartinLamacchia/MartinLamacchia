@@ -24,7 +24,7 @@
 
 ## Último Proyecto 🚀
 
-Estoy emocionado de compartir detalles sobre mi último proyecto: [Connectyfi](https://connectify-front-ruby.vercel.app/).
+Estoy emocionado de compartir detalles sobre mi último proyecto: [Vacaciones Air Europa](https://vacation-ae-front.vercel.app/).
 
 
 ### Algo sobre mi..
