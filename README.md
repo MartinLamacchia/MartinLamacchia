@@ -29,7 +29,7 @@ Estoy emocionado de compartir detalles sobre mi último proyecto: [Vacaciones Ai
 
 ### Algo sobre mi..
 
-🔭 Actualmente estoy trabajado en la creacion de una aplicacion WEB para Psicologo
+🔭 Actualmente estoy trabajado en la creacion de varias aplicaciones para una Linea Aerea
 
 🌱 Estoy aprendiendo actualmente React Native
 
